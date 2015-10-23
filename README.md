@@ -5,7 +5,7 @@ The modify will modify/add the following functions:
 + Add suffix to exported image --> So you can add @2x, @3x, etc...
 + The image will same as layer name.
 
-![Alt text](https://gyazo.com/a1143e1570fbe2070f79aeea203f043c?raw=true "Demo")
+[![https://gyazo.com/a1143e1570fbe2070f79aeea203f043c](https://i.gyazo.com/a1143e1570fbe2070f79aeea203f043c.gif)](https://gyazo.com/a1143e1570fbe2070f79aeea203f043c)
 
 
 TODO: 
